@@ -18,33 +18,9 @@
     "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
   },
   {
-    "id": "B1K14buzD",
-    "companyId": "HJRa-DOuG",
-    "title": "Hejhej",
-    "description": "HEjsanBrorsan"
-  },
-  {
-    "id": "rkBx4-_GP",
-    "companyId": "HJRa-DOuG",
-    "title": "Hejhej",
-    "description": "HEjsanBrorsan"
-  },
-  {
-    "id": "S1518WdGP",
-    "companyId": "HJRa-DOuG",
+    "id": "BJbIaG_Mv",
     "title": "Devops Engineer",
-    "description": "Restart all of our servers upon failure"
-  },
-  {
-    "id": "BJJ9BzOzv",
-    "companyId": "HJRa-DOuG",
-    "title": "asd",
-    "description": "asd"
-  },
-  {
-    "id": "H118dGOfv",
-    "title": "ASDASDA",
-    "description": "ASDASDASDASDA",
+    "description": "We need someone that can restart the servers when needed",
     "companyId": "HJRa-DOuG"
   }
 ]
